@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0 5vw;
+    background-color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+}
+header{
+    text-align: center;
+}
+#conteiner-w{
+    size: 70%;
+}
+#window{
+    min-width: 100%;
+}
+
